@@ -1,4 +1,4 @@
 singleta.sk
 ===========
 
-An time management app that promotes singletasking.
+A time management app that promotes singletasking.
